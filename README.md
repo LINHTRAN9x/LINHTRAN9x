@@ -60,17 +60,17 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/tranlinhhayen/" target="blank">
+  <a href="https://www.facebook.com/tranlinhhayen/" target="_blank">
     <img src="https://img.icons8.com/?size=80&id=118568&format=png" alt="linhtrandev-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/linh-tran-7553432a4/" target="blank">
+  <a href="https://www.linkedin.com/in/linh-tran-7553432a4/" target="_blank">
     <img src="https://img.icons8.com/?size=80&id=67570&format=png" alt="linhtrandev-linkedin" />
   </a>
-  <a href="https://www.instagram.com/tran_v_linh/" target="blank">
+  <a href="https://www.instagram.com/tran_v_linh/" target="_blank">
     <img src="https://img.icons8.com/?size=80&id=67564&format=png" alt="linhtrandev-instagram" />
   </a>
   <a href="mailto:tranvanlinh99x@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=80&id=4kDkRk06HHwS&format=png" alt="linhtrandev-email" />
+    <img src="https://img.icons8.com/?size=79&id=4kDkRk06HHwS&format=png" alt="linhtrandev-email" />
   </a>
 </div>
 
