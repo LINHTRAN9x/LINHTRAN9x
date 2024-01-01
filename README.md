@@ -50,7 +50,7 @@
   <a href="#" title="LinhtranDev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LINHTRAN9x&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="Linhtrandev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=LINHTRAN9x&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -70,7 +70,7 @@
     <img src="https://img.icons8.com/?size=80&id=67564&format=png" alt="linhtrandev-instagram" />
   </a>
   <a href="mailto:tranvanlinh99x@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=48&id=cHNRcWMI2bLJ&format=png" alt="linhtrandev-email" />
+    <img src="https://img.icons8.com/?size=80&id=td499GRWwrWC&format=png" alt="linhtrandev-email" />
   </a>
 </div>
 
