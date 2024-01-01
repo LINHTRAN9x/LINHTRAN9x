@@ -70,7 +70,7 @@
     <img src="https://img.icons8.com/?size=80&id=67564&format=png" alt="linhtrandev-instagram" />
   </a>
   <a href="mailto:tranvanlinh99x@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=70&id=td499GRWwrWC&format=png" alt="linhtrandev-email" />
+    <img src="https://img.icons8.com/?size=80&id=4kDkRk06HHwS&format=png" alt="linhtrandev-email" />
   </a>
 </div>
 
