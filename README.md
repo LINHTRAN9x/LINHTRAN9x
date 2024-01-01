@@ -73,7 +73,6 @@
     <img src="https://img.icons8.com/?size=79&id=4kDkRk06HHwS&format=png" alt="linhtrandev-email" />
   </a>
 </div>
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&layout=default&animation=default&font=default)
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
